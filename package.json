@@ -4,7 +4,7 @@
 	"main": "index.js",
 	"license": "MIT",
 	"dependencies": {
-		"axios": "^0.18.0",
+		"axios": "^0.28.0",
 		"pg": "^7.4.1",
 		"pg-hstore": "^2.3.2",
 		"qs": "^6.5.3",
